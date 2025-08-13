@@ -1,7 +1,7 @@
 ## Welcom to my GitHub profile
 
 ### About me!
-<img align='right' src="assets/1.gif" width="400">
+<img align='right' src="assets/1.gif" width="500">
 
 ```python
 class Tamir:
