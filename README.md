@@ -1,4 +1,4 @@
-<div id="header", style="margin-left: auto; text-align: center;">
+<div id="header", style="float: right; text-align: center;">
     <img src="assets/1.gif" width="500">
 </div>
 
