@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header", style="margin-left: auto">
     <img src="assets/1.gif" width="500">
 </div>
 
