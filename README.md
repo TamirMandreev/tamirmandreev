@@ -1,7 +1,8 @@
+## Welcom to my GitHub profile
+
+### About me!
 <img align='right' src="assets/1.gif" width="400">
 
-## Welcom to my GitHub profile 
-### About me!
 ```python
 class Tamir:
     def __init__(self):
