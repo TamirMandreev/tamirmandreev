@@ -32,6 +32,7 @@ me = Tamir()
 <a href="https://t.me/tamirmandreev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
+
 <a href="https://vk.com/tamirms">
     <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-blue?logo=vk">
 </a>
