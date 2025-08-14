@@ -30,7 +30,7 @@ me = Tamir()
 ### Let's connect
 
 <a href="https://t.me/tamirmandreev" target="_blank">
-    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25">
 </a>
 
 
