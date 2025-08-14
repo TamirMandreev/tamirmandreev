@@ -30,15 +30,12 @@ me = Tamir()
 ### Let's connect
 
 <a href="https://t.me/tamirmandreev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 <a href="https://vk.com/tamirms">
-    <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-blue?style=for-the-badge&logo=vk">
+    <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-blue?style=for-the-badge&logo=vk" height="25">
 </a>
-
-
-![Static Badge](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=flat&logo=vk&logoColor=white)
 
 ## 👩‍💻 О себе
 
