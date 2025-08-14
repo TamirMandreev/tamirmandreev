@@ -34,8 +34,7 @@ me = Tamir()
 </a>
 
 <a href="https://vk.com/tamirms">
-    <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-blue?style=for-the-badge&logo=vk
-">
+    <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-blue?style=for-the-badge&logo=vk">
 </a>
 
 
