@@ -23,7 +23,7 @@ me = Tamir()
 ### 🌟 Fun facts:
 
 * 🤝 I’m looking to collaborate on projects that are using Python
-* 📝 I chose programming because i enjoy reading and writing
+* 📝 I chose programming because i want to help people accomplish tasks mach faster using information technology
 * 🇬🇧 I'm currently learning English necessary for programming, so my README.md is written in English
 * 🎯 I'm a good lawyer who has decided to become an outstanding programmer
 
