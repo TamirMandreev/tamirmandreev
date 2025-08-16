@@ -1,6 +1,6 @@
 ## 👋 Welcom to my GitHub profile
 
-### 👩‍💻 About me!
+### 🦸 About me!
 
 <img align='right' src="assets/1.gif" width="400">
 
