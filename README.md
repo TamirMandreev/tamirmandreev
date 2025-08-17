@@ -13,7 +13,7 @@ class Tamir:
             "age": 27,
         }
         self.code = ["Python", "HTML", "SQL"]
-        self.tools = ["Django", "PostgreSQL", "Git", "Bootstrap"]
+        self.tools = ["Django", "PostgreSQL", "Git", "Bootstrap", "Docker"]
         self.interests = ("Problem Solving", "Physical culture")
 
 
